@@ -1,4 +1,4 @@
-// alert(`Dear User some Keyboard Shortcuts are:\n1.Press x (or X) - To Clear Selection\n2.Press Left Shift Key - for going to previous Question\n3.Press Right Shift Key - for going to next Question\n4.A,B,C,D for selecting respective options`)
+alert(`Dear User some Keyboard Shortcuts are:\n1.Press x (or X) - To Clear Selection\n2.Press Left Shift Key - for going to previous Question\n3.Press Right Shift Key - for going to next Question\n4.A,B,C,D for selecting respective options`)
 let qnID = document.querySelector('.qn-head');
 let qnDesc = document.querySelector('.qn-desc');
 let op1 = document.querySelector('#option-desc-1');
